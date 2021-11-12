@@ -68,3 +68,6 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+git remote add origin https://github.com/achrizal15/kominfo.git
+git branch -M main
+git push -u origin main
